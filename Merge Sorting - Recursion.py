@@ -27,7 +27,6 @@ def merge(a, b):
 
     return c
 
-i = 0
 
 def merge_sort(x):
 
